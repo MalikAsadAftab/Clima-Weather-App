@@ -3,7 +3,7 @@
 //  Clima
 //
 //  Created by Asad Aftab on 21/07/2024.
-//  Copyright © 2024 App Brewery. All rights reserved.
+//  Copyright © 2024. All rights reserved.
 //
 
 import UIKit
