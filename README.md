@@ -80,6 +80,9 @@ This project provided a comprehensive understanding of networking with APIs, the
 - [Swift Documentation](https://developer.apple.com/documentation/swift)
 - [Xcode Documentation](https://developer.apple.com/xcode/)
 - [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+- [OpenWeather API](https://openweathermap.org/api) - Used for fetching live weather data.
+- [Core Location Documentation](https://developer.apple.com/documentation/corelocation) - Used for accessing location services.
+- [URLSession Documentation](https://developer.apple.com/documentation/foundation/urlsession) - Used for making network requests.
 
 ---
 
